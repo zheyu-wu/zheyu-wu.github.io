@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/zheyu-wu/zheyu-wu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Zheyu Wu, and I am currently a graduate student at Engineering Sciences program at Harvard University. Prior to Harvard, I received my bachelor degree (B.ASc) in Electrical and Computer Engineering with High Honors from the University of Toronto, where I worked with Prof. Oliver Trescases and Prof. Ali Sheikholeslami.
 
 ### Markdown
 
