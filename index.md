@@ -1,7 +1,8 @@
-## About
+## About Zheyu
 
-My name is Zheyu Wu, and I am currently a graduate student at Engineering Sciences program at Harvard University. Prior to Harvard, I received my bachelor degree (B.ASc) in Electrical and Computer Engineering with High Honors from the University of Toronto, where I worked with Prof. Oliver Trescases and Prof. Ali Sheikholeslami.
+My name is Zheyu Wu, and I am currently a graduate student at Engineering Sciences program at Harvard University. Prior to Harvard, I received my bachelor degree (B.ASc) in Electrical and Computer Engineering with High Honors from the University of Toronto, where I worked with [Prof. Oliver Trescases](http://www.ele.utoronto.ca/~ot/) and [Prof. Ali Sheikholeslami](http://www.eecg.utoronto.ca/~ali/).
 
+During my fourth year at UofT, I was fortunate to work with a group of world-class engineers at Apple Inc.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
